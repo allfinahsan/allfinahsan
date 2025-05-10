@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Allfin Ahsan
 
-<!--
-**allfinahsan/allfinahsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity learner with a background in System Administration.  
+🛠️ I work on my own home lab with Proxmox, VLANs, WireGuard, and backups.  
+📦 Currently studying for CompTIA Security+ and CCNA.
 
-Here are some ideas to get you started:
+## 📂 Projects (coming soon)
+- Proxmox VM Backup + Restore
+- WireGuard VPN with Split Routing
+- TryHackMe Blue Team Labs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/allahsan
+- TryHackMe: https://tryhackme.com/p/allfinahsan
+- Email: allfinahsan@outlook.com
