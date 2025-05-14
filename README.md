@@ -11,5 +11,5 @@
 - Home Network Lab
 ## 🔗 Connect
 - LinkedIn: https://www.linkedin.com/in/allahsan
-- TryHackMe: https://tryhackme.com/p/allfinahsan
+- TryHackMe: https://tryhackme.com/p/allahsan
 - Email: allfinahsan@outlook.com
